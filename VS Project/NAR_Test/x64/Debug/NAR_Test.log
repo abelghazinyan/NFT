@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  FeatureMatching.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\featurematching.cpp(180): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Filter.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\filter.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  OpticalFlow.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\opticalflow.cpp(138): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Plotter.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\plotter.cpp(101): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  PNP.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\pnp.cpp(130): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  PoseFilter.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\posefilter.cpp(145): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Source.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\source.cpp(90): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Tracker.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\tracker.cpp(241): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Utils.cpp
+c:\users\ghazi\desktop\feature matcher cpu\nar_test\utils.cpp(349): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
